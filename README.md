@@ -19,54 +19,76 @@ This wasn't meant to be scientific or perfect, just **an honest self-experiment*
 
 ## 📊 What I Tracked
 
-- ☕ **Caffeine Level** (custom score based on quantity and time of day)
-- 🛌 **Sleep Duration** (actual hours of sleep per night)
+Every day, I logged the following:
 
-I logged this daily and visualized the results using Power BI.
+| Category | Description |
+|----------|-------------|
+| **Date** | Daily logs for the entire month |
+| **Day of the Week** | To check for weekday/weekend patterns |
+| **Caffeine Consumption** | Number of cups from Timmy’s, Starbucks, and William’s Fresh |
+| **Caffeine Level** | A custom score combining amount + source |
+| **Sleep Hours** | Actual time slept per night |
+| **Calories & Nutrition** | From caffeinated drinks (because it adds up) |
+| **Cost of Coffee** | How much I spent daily and at which store |
+
+Here's a snapshot of the raw data I logged:
+
+![Raw Data Screenshot](images/f3f5f643-d2d1-42a4-8940-8bd21863e1dd.png)
 
 ---
 
-## 📈 What the Data Says
+## 📈 Sleep vs Caffeine Level
 
-### 📷 Caffeine Level vs Sleeping Hours
+This was the main focus — I wanted to know whether more caffeine = less sleep.  
+Turns out... **it kind of does.**
 
 ![Caffeine vs Sleep](images/0b084e7e-c121-477a-8724-e9b7e8a0dc0b.png)
 
-- The **blue bars** show my caffeine level for the day.
-- The **red line** tracks how many hours I slept that night.
+🔹 **Blue bars** represent caffeine level  
+🔴 **Red line** shows sleep hours per day
 
-Looking at the graph, it’s pretty clear there’s a pattern — or at least a tension — between the two. High caffeine days didn’t always lead to poor sleep, but the **consistently low sleep days often followed caffeine spikes**.
+There were definitely days where a caffeine spike led to short sleep, and some days where a decaf choice made a real difference. I started being more mindful mid-month — and the sleep hours responded.
 
-Some specific days really stood out:  
-- ⚡ *Late-night coffee = regret the next morning*  
-- 🌘 *Low caffeine = longer, deeper sleep*
+---
+
+## 💸 Coffee Spending: Where My Money Went
+
+Once I started tracking, I also realized I was spending **way more** on caffeine than I thought. Here’s a quick breakdown:
+
+![Coffee Shop Spending](images/75f31e18-45bc-4992-85af-32364c6fd47c.png)
+
+- ☕ **Timmy’s:** $422.73 (~68%)  
+- ☕ **Starbucks:** $168.30 (~27%)  
+- ☕ **William's Fresh:** $33.15 (~5%)  
+
+Safe to say, **Timmy’s was my second home.**
 
 ---
 
 ## 🔍 What I Learned
 
-- I don’t have to quit caffeine (yet), but I **definitely need to time it better**.
-- Logging data helped me stop guessing and start seeing real patterns.
-- I kind of enjoyed being my own data subject — I might do this again for something else.
+- I’m very sensitive to caffeine timing — not just amount.
+- Small choices (like skipping one drink) noticeably impacted my sleep.
+- Tracking made me more intentional about both my consumption and spending.
+- Starbucks feels premium... until you see the **accumulated total** 🤯
 
 ---
 
 ## 🛠 Tools Used
 
-- **Data Logging:** Google Sheets  
-- **Visualization:** Power BI  
-- **Hosting:** GitHub  
+- 📊 **Power BI** — for visuals and dashboards  
+- 📋 **Google Sheets / Excel** — for daily data entry  
+- 🧠 **Common sense** — once the data was in front of me  
 
 ---
 
 ## 💭 Final Thoughts
 
-Sometimes the best data projects aren't about dashboards for businesses — they're about **understanding ourselves** a bit better. This one made me more mindful of my choices, and I’m sleeping better because of it.
+This was one of those projects I started casually but ended up really enjoying. It taught me a lot about my habits — not in a judgmental way, but in a curious, data-powered way.
 
-If you’ve ever wondered whether your coffee habit is helping or hurting, I encourage you to try tracking it. You might be surprised what you find in your own patterns.
+If you’ve ever wondered how your coffee, sleep, or money habits add up — I’d say try tracking for just a couple of weeks. The patterns will surprise you.
 
 ---
-
 ## 📬 Let's Connect
 
 I'm always up for chatting about data, dashboards, or daily habits.  
