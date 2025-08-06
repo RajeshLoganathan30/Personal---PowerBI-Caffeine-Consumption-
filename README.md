@@ -42,7 +42,7 @@ Here's a snapshot of the raw data I logged:
 This was the main focus — I wanted to know whether more caffeine = less sleep.  
 Turns out... **it kind of does.**
 
-![Caffeine vs Sleep](images/0b084e7e-c121-477a-8724-e9b7e8a0dc0b.png)
+![Caffeine vs Sleep](SleepVSCaffeine.png)
 
 🔹 **Blue bars** represent caffeine level  
 🔴 **Red line** shows sleep hours per day
@@ -55,7 +55,7 @@ There were definitely days where a caffeine spike led to short sleep, and some d
 
 Once I started tracking, I also realized I was spending **way more** on caffeine than I thought. Here’s a quick breakdown:
 
-![Coffee Shop Spending](images/75f31e18-45bc-4992-85af-32364c6fd47c.png)
+![Coffee Shop Spending](Expense.png)
 
 - ☕ **Timmy’s:** $422.73 (~68%)  
 - ☕ **Starbucks:** $168.30 (~27%)  
