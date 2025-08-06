@@ -31,9 +31,9 @@ Every day, I logged the following:
 | **Calories & Nutrition** | From caffeinated drinks (because it adds up) |
 | **Cost of Coffee** | How much I spent daily and at which store |
 
-Here's a snapshot of the raw data I logged:
+Here's a snapshot of the sample data I logged:
 
-![Raw Data Screenshot](images/f3f5f643-d2d1-42a4-8940-8bd21863e1dd.png)
+![Raw Data Screenshot](Sample_Data.png)
 
 ---
 
@@ -42,7 +42,7 @@ Here's a snapshot of the raw data I logged:
 This was the main focus — I wanted to know whether more caffeine = less sleep.  
 Turns out... **it kind of does.**
 
-![Caffeine vs Sleep](SleepVSCaffeine.png)
+![Caffeine vs Sleep](SleepVsCaffeine.png)
 
 🔹 **Blue bars** represent caffeine level  
 🔴 **Red line** shows sleep hours per day
